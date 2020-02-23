@@ -1,6 +1,6 @@
 ---
 templateKey: 'about-page'
-path: /about
+path: /work
 title: About our values
 ---
 ### Shade-grown coffee
